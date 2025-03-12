@@ -1,0 +1,151 @@
+﻿Number,title,artist,top genre,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop
+1,Yellow,Coldplay,pop,2000,173,66,43,-7,23,28,267,0,3,92
+2,Without Me,Eminem,hip hop,2002,112,67,91,-3,24,66,290,0,7,90
+3,Flashing Lights,Kanye West,hip hop,2007,90,63,64,-8,39,43,238,4,4,88
+4,The Real Slim Shady,Eminem,hip hop,2000,105,66,95,-4,5,76,284,3,6,88
+5,Heartless,Kanye West,hip hop,2008,88,65,79,-6,25,65,211,5,14,87
+6,Mr. Brightside,The Killers,rock,2004,148,91,35,-5,10,24,223,0,7,87
+7,Somewhere Only We Know,Keane,rock,2004,172,67,45,-4,8,30,237,6,3,87
+8,Feel Good Inc.,Gorillaz,hip hop,2005,139,71,82,-7,61,77,223,1,18,85
+9,Promiscuous,Nelly Furtado,pop,2006,114,97,81,-6,15,87,242,6,5,85
+10,Pumped Up Kicks,Foster The People,pop,2011,128,71,73,-6,10,97,240,14,3,85
+11,Ms. Jackson,Outkast,hip hop,2000,95,81,84,-6,8,61,271,14,27,84
+12,Stronger,Kanye West,hip hop,2007,104,72,62,-8,41,49,312,1,15,84
+13,Hey Ya!,Outkast,hip hop,2003,80,97,73,-2,17,97,235,10,7,84
+14,Empire State Of Mind,JAY-Z,hip hop,2009,174,96,49,-2,46,81,277,3,39,84
+15,Dog Days Are Over,Florence + The Machine,pop,2009,150,81,50,-5,12,26,253,3,9,84
+16,Stan,Eminem,hip hop,2000,80,77,78,-4,52,51,404,4,24,84
+17,Sex on Fire,Kings of Leon,rock,2008,153,91,54,-6,14,37,203,0,5,84
+18,Can't Stop,Red Hot Chili Peppers,rock,2002,91,94,62,-3,17,88,269,2,5,84
+19,Clocks,Coldplay,pop,2002,131,75,58,-7,18,26,308,60,3,84
+20,The Middle,Jimmy Eat World,metal,2001,162,85,64,-5,6,90,166,4,5,84
+21,Smack That,Akon,pop,2006,119,74,94,-5,11,92,212,32,5,84
+22,Party In The U.S.A.,Miley Cyrus,pop,2009,96,70,65,-5,9,47,202,0,4,84
+23,Alright,Kendrick Lamar,hip hop,2015,110,77,80,-6,8,56,219,7,24,83
+24,Hate It Or Love It,The Game,hip hop,2005,100,79,80,-5,12,44,206,14,21,83
+25,Maneater,Nelly Furtado,pop,2006,133,78,80,-5,12,79,259,3,4,83
+26,The Way I Are,Timbaland,pop,2007,115,81,73,-6,32,77,179,18,10,83
+27,Walking On A Dream,Empire of the Sun,dance,2008,127,70,87,-6,6,72,198,26,5,82
+28,All Falls Down,Kanye West,hip hop,2004,91,73,66,-5,14,43,224,15,48,82
+29,Gold Digger,Kanye West,hip hop,2005,93,70,63,-6,6,62,208,2,35,82
+30,Take Me Out,Franz Ferdinand,rock,2004,105,66,28,-9,14,53,237,0,4,82
+31,Forgot About Dre,Dr. Dre,hip hop,1999,134,74,92,-1,16,62,222,8,8,82
+32,It Wasn't Me,Shaggy,hip hop,2000,95,61,85,-5,31,65,228,6,7,82
+33,Say It Right,Nelly Furtado,pop,2006,117,87,87,-6,5,81,223,5,14,82
+34,This Love,Maroon 5,pop,2002,95,86,71,-5,9,81,206,5,4,82
+35,How to Save a Life,The Fray,rock,2005,122,74,64,-4,10,36,263,27,4,82
+36,If I Ain't Got You,Alicia Keys,pop,2003,118,44,61,-9,10,17,229,60,11,82
+37,She Will Be Loved - Radio Mix,Maroon 5,pop,2002,102,66,65,-6,10,47,259,23,3,82
+38,Put Your Records On,Corinne Bailey Rae,soul,2006,96,51,74,-8,13,54,215,17,4,81
+39,Hey There Delilah,Plain White T's,rock,2005,104,29,66,-11,11,30,233,87,3,81
+40,Back To Black,Amy Winehouse,soul,2006,123,42,40,-14,9,38,241,13,4,81
+41,The Pretender,Foo Fighters,metal,2007,173,96,43,-4,3,37,269,0,4,81
+42,Rock Your Body,Justin Timberlake,pop,2002,101,71,89,-6,5,82,267,20,14,80
+43,Run This Town,JAY-Z,hip hop,2009,87,92,63,-2,26,44,268,28,29,80
+44,My Boo,Usher,hip hop,2004,86,51,66,-8,5,68,223,26,12,80
+45,"Sugar, We're Goin Down",Fall Out Boy,punk,2005,162,84,49,-5,12,57,229,1,8,80
+46,Dani California,Red Hot Chili Peppers,rock,2006,96,91,56,-2,35,73,282,2,4,80
+47,Dancing in the Moonlight,Toploader,rock,2000,119,86,63,-3,35,87,233,6,3,80
+48,Crazy,Gnarls Barkley,hip hop,2006,112,59,86,-5,11,64,177,5,3,80
+49,P.I.M.P.,50 Cent,hip hop,2003,85,77,71,-3,4,85,249,5,35,80
+50,Beautiful Girls,Sean Kingston,pop,2007,130,66,76,-6,26,77,225,15,7,80
+51,Unwritten,Natasha Bedingfield,pop,2004,100,80,71,-6,8,63,259,1,4,80
+52,So Sick,Ne-Yo,pop,2006,93,57,45,-8,19,58,207,25,31,80
+53,Grenade,Bruno Mars,pop,2010,110,56,70,-7,11,25,222,15,5,80
+54,Say My Name,Destiny's Child,pop,1999,138,68,71,-4,15,73,271,27,10,80
+55,Disturbia,Rihanna,pop,2008,125,81,71,-5,17,72,239,9,6,80
+56,Fireflies,Owl City,pop,2009,180,66,51,-7,12,47,228,3,4,80
+57,Electric Feel,MGMT,house,2007,103,80,76,-4,35,56,230,7,4,79
+58,American Boy,Estelle,pop,2008,118,73,69,-3,7,52,285,17,38,79
+59,Kids,MGMT,rock,2007,123,93,45,-4,36,17,303,0,7,79
+60,Lady - Hear Me Tonight,Modjo,house,2001,126,81,72,-6,6,87,307,1,4,79
+61,Kiss Me Thru The Phone,Soulja Boy,hip hop,2008,150,71,76,-4,7,80,193,2,11,79
+62,When You Were Young,The Killers,rock,2006,130,99,47,-3,28,32,220,0,11,79
+63,Use Somebody,Kings of Leon,rock,2008,137,72,28,-5,20,17,231,1,4,79
+64,Hot In Herre,Nelly,pop,2002,107,75,96,-5,6,91,228,21,12,79
+65,Drop It Like It's Hot,Snoop Dogg,hip hop,2004,92,63,89,-4,10,66,266,19,22,79
+66,"Dance, Dance",Fall Out Boy,punk,2005,114,96,62,-3,9,45,180,1,15,79
+67,Welcome to the Black Parade,My Chemical Romance,punk,2006,97,91,22,-4,22,24,311,0,8,79
+68,Young Folks,Peter Bjorn and John,dance,2006,138,81,70,-6,11,66,277,2,4,78
+69,Clint Eastwood,Gorillaz,hip hop,2001,168,69,66,-9,7,53,341,3,17,78
+70,Cooler Than Me - Single Mix,Mike Posner,pop,2010,130,82,77,-5,69,63,213,18,5,78
+71,Ride Wit Me,Nelly,pop,2000,102,70,85,-6,24,72,292,6,5,78
+72,You've Got The Love,Florence + The Machine,pop,2009,110,69,57,-5,10,40,169,0,3,78
+73,I Miss You,blink-182,metal,2003,110,71,42,-8,9,59,227,0,5,78
+74,SOS,Rihanna,pop,2006,137,67,68,-5,41,53,239,0,4,78
+75,Give It To Me,Timbaland,pop,2007,111,71,98,-4,8,82,234,17,6,78
+76,Naive,The Kooks,pop,2006,100,81,39,-6,15,74,204,8,9,77
+77,Last Nite,The Strokes,rock,2001,104,91,62,-6,8,77,193,3,3,77
+78,"Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",Amy Winehouse,soul,2006,97,37,77,-6,17,68,234,74,3,77
+79,Better Together,Jack Johnson,rock,2005,110,35,87,-9,11,66,208,30,5,77
+80,Let Me Blow Ya Mind,Eve,r&b,2001,90,56,91,-4,7,90,230,24,11,77
+81,Forever,Drake,hip hop,2009,104,91,46,-2,18,54,358,25,34,76
+82,King Kunta,Kendrick Lamar,hip hop,2015,107,66,88,-5,15,49,235,1,10,76
+83,21 Questions,50 Cent,hip hop,2003,90,81,58,-4,5,91,224,35,32,76
+84,Foolish,Ashanti,pop,2002,90,70,67,-6,11,71,227,35,5,76
+85,Meet Me Halfway,Black Eyed Peas,pop,2009,130,63,80,-7,32,40,284,0,7,76
+86,Teenage Dirtbag,Wheatus,punk,1999,95,85,63,-4,17,63,242,35,5,76
+87,Let Me Love You,Mario,pop,2004,95,58,66,-9,12,56,257,24,9,76
+88,What's Luv? (feat. Ja-Rule & Ashanti),Fat Joe,hip hop,2001,94,71,84,-5,11,92,267,2,6,76
+89,Last Friday Night (T.G.I.F.),Katy Perry,pop,2012,126,82,65,-4,67,77,231,0,4,76
+90,Waiting On the World to Change,John Mayer,rock,2006,177,76,58,-6,25,66,201,16,12,76
+91,When The Sun Goes Down,Arctic Monkeys,rock,2006,169,88,35,-5,12,41,202,3,20,75
+92,Chasing Pavements,Adele,soul,2008,80,47,62,-6,11,33,211,29,3,75
+93,My Love (feat. T.I.),Justin Timberlake,pop,2006,120,68,77,-6,68,81,276,28,22,75
+94,No One Knows,Queens of the Stone Age,metal,2002,170,58,51,-5,38,69,279,4,6,75
+95,I Wanna Love You,Akon,pop,2006,100,45,87,-9,28,37,247,4,4,75
+96,Intro,The xx,pop,2009,100,78,62,-9,13,15,128,46,3,75
+97,You Found Me,The Fray,rock,2009,152,80,34,-5,14,40,242,2,4,75
+98,Paparazzi,Lady Gaga,pop,2008,115,69,76,-4,9,40,208,11,4,75
+99,Day 'N' Nite (Nightmare),Kid Cudi,hip hop,2009,138,44,88,-6,12,80,221,46,7,74
+100,Bulletproof,La Roux,dance,2009,123,88,67,-3,7,68,206,0,5,74
+101,The Funeral,Band of Horses,pop,2006,122,76,32,-6,10,10,322,2,4,74
+102,U Remind Me,Usher,hip hop,2001,94,63,66,-5,25,73,267,19,8,74
+103,What Goes Around.../...Comes Around (Interlude),Justin Timberlake,pop,2006,76,72,69,-5,57,43,449,12,7,74
+104,Roses,Outkast,hip hop,2003,109,71,75,-6,11,51,370,5,5,73
+105,A-Punk,Vampire Weekend,pop,2008,175,82,55,-4,15,85,138,1,5,73
+106,Smile,Lily Allen,pop,2006,96,64,63,-6,22,73,197,0,3,73
+107,Tears Dry On Their Own,Amy Winehouse,soul,2006,122,54,63,-13,23,47,186,53,18,73
+108,You Know I'm No Good,Amy Winehouse,soul,2006,103,50,69,-14,6,80,257,1,3,73
+109,"Harder, Better, Faster, Stronger",Daft Punk,electronic,2001,123,72,82,-9,36,69,225,4,14,73
+110,The Way You Move (feat. Sleepy Brown),Outkast,hip hop,2003,126,60,87,-5,6,64,234,13,5,72
+111,Home - 2019 - Remaster,Edward Sharpe & The Magnetic Zeros,pop,2009,112,63,53,-6,10,11,306,25,3,72
+112,I Write Sins Not Tragedies,Panic! At The Disco,pop,2005,170,82,57,-4,12,67,186,7,14,72
+113,Shut Up And Drive,Rihanna,pop,2008,133,83,74,-5,20,74,212,0,3,72
+114,Birthday Sex,Jeremih,hip hop,2009,60,52,68,-6,15,45,227,30,4,72
+115,Lollipop,Lil Wayne,hip hop,2008,148,43,83,-9,14,45,299,6,8,71
+116,Hit 'Em Up Style (Oops!),Blu Cantrell,hip hop,2001,90,77,67,-5,40,67,251,20,6,71
+117,Gives You Hell,The All-American Rejects,metal,2008,100,69,72,-6,6,55,213,2,4,71
+118,"I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",Diddy,pop,2004,200,47,71,-7,3,78,286,42,48,71
+119,Move Your Feet,Junior Senior,pop,2002,119,90,75,-3,20,85,182,5,8,70
+120,Heartbeats,José González,pop,2003,88,15,55,-17,7,31,160,97,3,70
+121,A Milli,Lil Wayne,hip hop,2008,151,70,67,-9,19,77,222,4,28,69
+122,The Sweet Escape,Gwen Stefani,pop,2006,120,77,76,-4,18,73,246,19,3,69
+123,99 Problems,JAY-Z,hip hop,2003,90,89,49,-4,10,55,235,1,40,69
+124,Shake It,Metro Station,pop,2007,150,96,62,-4,49,79,180,0,8,69
+125,Heads Will Roll,Yeah Yeah Yeahs,dance,2009,132,90,56,-4,30,79,221,0,3,69
+126,Love Is A Losing Game,Amy Winehouse,soul,2006,165,29,48,-17,15,56,155,34,3,69
+127,Viva La Vida,Coldplay,pop,2008,138,62,49,-7,11,42,242,10,3,69
+128,Beautiful,Snoop Dogg,hip hop,2005,101,74,89,-5,9,96,299,30,13,68
+129,Banquet,Bloc Party,dance,2005,150,94,57,-5,8,88,201,0,5,68
+130,Glamorous,Fergie,pop,2006,131,76,81,-6,10,56,247,30,23,67
+131,Golden Skans,Klaxons,dance,2007,142,84,46,-3,25,71,165,0,4,67
+132,Cosmic Love,Florence + The Machine,pop,2009,140,81,52,-5,12,10,256,14,4,67
+133,Dirty Little Secret,The All-American Rejects,metal,2005,144,96,47,-4,55,46,194,0,4,67
+134,Miss Independent,Ne-Yo,pop,2008,172,67,67,-6,19,73,232,48,14,67
+135,Ordinary People,John Legend,pop,2005,67,13,47,-14,9,36,281,93,8,67
+136,Little L,Jamiroquai,pop,2001,122,72,88,-5,13,90,295,17,13,67
+137,Superstar (feat. Matthew Santos),Lupe Fiasco,hip hop,2007,95,82,57,-6,36,47,289,21,36,66
+138,Sweet Disposition,The Temper Trap,pop,2009,129,81,54,-7,12,30,236,7,4,65
+139,D.A.N.C.E,Justice,dance,2007,113,96,61,-5,82,50,242,3,28,65
+140,Fuck You,CeeLo Green,hip hop,2010,127,88,69,-4,12,75,224,19,6,65
+141,Little Lion Man,Mumford & Sons,rock,2010,139,49,52,-8,9,48,247,3,3,64
+142,You Belong With Me,Taylor Swift,pop,2008,130,77,69,-4,11,45,231,16,4,63
+143,Animal,Miike Snow,dance,2009,118,72,77,-7,10,65,263,1,8,61
+144,Lonely,Akon,pop,2006,90,53,62,-8,13,60,236,31,4,60
+145,Cupid's Chokehold / Breakfast in America - Radio Mix,Gym Class Heroes,pop,2007,80,68,58,-5,29,82,237,50,8,59
+146,Knock You Down,Keri Hilson,pop,2009,155,88,59,-5,17,65,326,1,16,59
+147,Bonkers - Radio Edit,Dizzee Rascal,punk,2009,126,98,62,-3,25,74,178,1,22,58
+148,I Know What You Want (feat. Flipmode Squad),Busta Rhymes,hip hop,2002,86,75,56,-4,64,49,324,1,32,57
+149,1 Thing,Amerie,r&b,2008,125,95,64,-5,4,89,239,12,33,53
+150,03' Bonnie & Clyde,JAY-Z,hip hop,2003,88,73,64,-4,14,36,205,22,34,46
